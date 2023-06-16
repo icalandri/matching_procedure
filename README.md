@@ -9,4 +9,4 @@ The entire descriptiion is in this paper:
 
 https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01256-3
 
-![alt text](http://url/to/img.png](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12874-021-01256-3/MediaObjects/12874_2021_1256_Fig1_HTML.png?as=webp)https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12874-021-01256-3/MediaObjects/12874_2021_1256_Fig1_HTML.png?as=webp)
+![alt text]((http://url/to/img.png](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12874-021-01256-3/MediaObjects/12874_2021_1256_Fig1_HTML.png?as=webp)https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12874-021-01256-3/MediaObjects/12874_2021_1256_Fig1_HTML.png?as=webp))
