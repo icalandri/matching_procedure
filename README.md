@@ -1,6 +1,6 @@
 # Matching procedure
 
-This script is adapted from ccoptimalmatch documentation
+This is an R script adapted from ccoptimalmatch package documentation to create a paired sample by fixed variables and ranges of variables of variable size in relation to the group of interest.
 
 The entire descriptiion is in this paper:
 
